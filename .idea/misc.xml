@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/drawable/bon3.xml" value="0.346782431052094" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/drawable/btn_button.xml" value="0.16" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/drawable/home.xml" value="0.3536458333333333" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/drawable/star.xml" value="0.196875" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/Feedback.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/activity_Valet.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/activity_home.xml" value="0.33" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/activity_main_2.xml" value="0.25" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/activity_main_3.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/activity_valet.xml" value="0.32864583333333336" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/bar.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/bar2.xml" value="0.2" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/card.xml" value="0.5" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/card1.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/card10.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/card11.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/card2.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/card3.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/card4.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/card5.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/card6.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/card7.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/card8.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/card9.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/checkout.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/dialogl.xml" value="0.246484375" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/feedback.xml" value="0.2390625" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/home.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/main_res.xml" value="0.25" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/meals.xml" value="0.25" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/meals_res.xml" value="0.246484375" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/menu.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/pizza.xml" value="0.25" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/recycler.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/services.xml" value="0.2390625" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/services_tayp.xml" value="0.25" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/shisha.xml" value="0.2390625" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/tayp1 res.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/tayp1_res.xml" value="0.33" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/tayp2_res.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/tayp3_res.xml" value="0.25" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/tayp_res.xml" value="0.33" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/valet.xml" value="0.2390625" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/viow.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/void.xml" value="0.2390625" />
+        <entry key="..\:/Windows.old/Users/moh/AndroidStudioProjects/food2/app/src/main/res/drawable/bon3.xml" value="0.16944444444444445" />
+        <entry key="..\:/Windows.old/Users/moh/AndroidStudioProjects/food2/app/src/main/res/drawable/mayonaise.xml" value="0.16944444444444445" />
+        <entry key="..\:/Windows.old/Users/moh/AndroidStudioProjects/food2/app/src/main/res/drawable/order_car.xml" value="0.16944444444444445" />
+        <entry key="..\:/Windows.old/Users/moh/AndroidStudioProjects/food2/app/src/main/res/drawable/waiter.xml" value="0.16944444444444445" />
+        <entry key="..\:/Windows.old/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/bar.xml" value="0.1" />
+        <entry key="..\:/Windows.old/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/bar2.xml" value="0.25" />
+        <entry key="..\:/Windows.old/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/meals.xml" value="0.275" />
+        <entry key="..\:/Windows.old/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/menu.xml" value="0.275" />
+        <entry key="..\:/Windows.old/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/pizza.xml" value="0.1" />
+        <entry key="..\:/Windows.old/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/services.xml" value="0.275" />
+        <entry key="..\:/Windows.old/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/services_tayp.xml" value="0.275" />
+        <entry key="..\:/Windows.old/Users/moh/AndroidStudioProjects/food2/app/src/main/res/layout/shisha.xml" value="0.275" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
